@@ -1,0 +1,4 @@
+.env
+master/mnt
+master/var/*
+slave/var/*
